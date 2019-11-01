@@ -438,3 +438,7 @@ rs.config()
 	}
 }
 ```
+
+Screens are in 'screens' folder
+
+Reference: https://dev.to/rexeze/how-to-build-a-real-time-chat-app-with-nodejs-socketio-and-mongodb-2khohttps://dev.to/rexeze/how-to-build-a-real-time-chat-app-with-nodejs-socketio-and-mongodb-2kho
